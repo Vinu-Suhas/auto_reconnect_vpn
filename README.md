@@ -7,3 +7,6 @@ Make sure it to make the file **executable** by the command chmod+x vpn.sh and  
 ##  Get **UUID of the vpn** by
 
 nmcli con
+
+## Make sure to enable this option to
+![image](https://user-images.githubusercontent.com/65675242/190851777-7e61edb7-09b4-4fc6-a9d8-9317269a5b8e.png)
